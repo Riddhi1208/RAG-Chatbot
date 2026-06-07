@@ -1,4 +1,1 @@
-how to run
-
-python ingest.py
-streamlit run app.py
+Fully local Retrieval-Augmented Generation (RAG) chatbot using Ollama, Llama 3 8B, ChromaDB, LangChain, and Streamlit.
